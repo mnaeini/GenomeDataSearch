@@ -15,11 +15,6 @@ public class QueryingService {
 	/**
 	 * The main method that executes a query against the index
 	 * 
-	 * @param indexFileName
-	 *            - speaks for itself
-	 * @param dataFileName
-	 *            - The RandomAccessFile stored on disk to be used for retrieval
-	 *            of data
 	 * @param startPosition
 	 *            - The endPosition after we parse the user query
 	 * @param endPosition
